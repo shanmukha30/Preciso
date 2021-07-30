@@ -13,14 +13,15 @@
         android:layout_gravity="right"
         android:layout_marginTop="20dp"
         android:alpha="1"
+        android:padding="10"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
         app:lottie_loop="false"
-        app:lottie_rawRes="@raw/splash"
-        app:lottie_speed="0.8" />
+        app:lottie_rawRes="@raw/precisosplash"
+        app:lottie_speed="1.4" />
 
     <TextView
         android:id="@+id/preciso"
@@ -31,7 +32,7 @@
         android:fontFamily="@font/fredoka_one"
         android:text="Preciso"
         android:textColor="#19C4DA"
-        android:textSize="40sp"
+        android:textSize="44sp"
         android:translationY="-65px"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

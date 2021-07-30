@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940925815785",
+    "project_id": "preciso-e63d0",
+    "storage_bucket": "preciso-e63d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940925815785:android:e30d6b3314e8cdc5f71978",
+        "android_client_info": {
+          "package_name": "com.example.preciso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940925815785-cqes9f2ntu90ekbcpo1i689ms3g659ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxrGNAJnCOGuYebQeBvRiBGCh22olhMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940925815785-cqes9f2ntu90ekbcpo1i689ms3g659ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
